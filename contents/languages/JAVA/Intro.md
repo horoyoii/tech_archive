@@ -86,8 +86,8 @@
 ### 5. Another example
 
    1 . 매개변수로 넘기는 것은 obj의 주소값이다. 
-   2. caller에서 object에 대한 reference variable을 인자로 넘겨주고
-      callee에서는 매개변수로 reference variable를 받을 때 주소값에 대한 복사가 이뤄지기에 call by value인 것...
+   2. caller에서 object에 대한 reference variable을 인자로 넘겨주고  
+      callee에서는 매개변수로 reference variable를 받을 때 주소값에 대한 복사가 이뤄지기에 call by value인 것...  
       
    3. 기본적으로 primitive type을 넘겨줄 때는 call by value로 
    <pre><code>
