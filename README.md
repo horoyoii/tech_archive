@@ -12,4 +12,9 @@
 
 # 3. Languages
 
-[1. JAVA ](/contents/languages/JAVA/Intro.md)
+[1. JAVA ](/contents/languages/JAVA/java.md)
+
+
+# 4. Design Pattern
+
+[1. Iterator Pattern](/contents/design_pattern/intro.md)
