@@ -9,4 +9,4 @@
 [4. Garbage Collector ](/contents/languages/JAVA/GC.md)  
 
 5. Object-oriented Programming in JAVA  
-[5.1. Class ](/contents/language/JAVA/Class.md)
+[5.1. Class ](/contents/languages/JAVA/Class.md)
