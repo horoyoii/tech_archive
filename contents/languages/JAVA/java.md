@@ -7,3 +7,6 @@
 [2. Variable and Control Statements ](/contents/languages/JAVA/Variable_and_ControlStatement.md)  
 [3. Array ](/contents/languages/JAVA/Array.md)  
 [4. Garbage Collector ](/contents/languages/JAVA/GC.md)  
+
+5. Object-oriented Programming in JAVA
+[5.1. Class ](/contents/language/JAVA/class.md)
