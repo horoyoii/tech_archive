@@ -37,15 +37,11 @@
 
 * Java
 <pre><code>
-
 Student[] stdArr = new Student[3];
-
 </code></pre>
 
 * C++
-
 <pre><code>
-
 Student stdArr[3];
 </code></pre>
 
