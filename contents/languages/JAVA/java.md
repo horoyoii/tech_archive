@@ -16,7 +16,7 @@
 [5.4. 변수와 메서드](/contents/languages/JAVA/variable_and_method.md)  
 [5.5. 기본형 매개변수와 참조형 매개변수, 리턴타입](/contents/languages/JAVA/param_and_return.md)  
 [5.6. 생성자](/contents/languages/JAVA/constructor.md)  
-[5.7. 변수 초기화(기본값, 명시적 초기화, 초기화 블록)(/contents/languages/JAVA/initializatoin.md)
+[5.7. 변수 초기화(기본값, 명시적 초기화, 초기화 블록](/contents/languages/JAVA/initializatoin.md)
 
 
 
