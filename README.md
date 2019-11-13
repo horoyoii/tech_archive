@@ -1,9 +1,12 @@
 
 # 1. Algorithm
+ **[0. Algorithm basic problems](/contents/Algorithm/Problem/basic.md)**
+
  [1. Sorting](/contents/Algorithm/Sorting.md)  
  [2. Hashing](/contents/Algorithm/Hash.md) 
  
- 
+
+
  
 # 2. Network 
 
