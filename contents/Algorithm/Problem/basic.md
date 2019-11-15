@@ -16,3 +16,12 @@
 1) minStack.getMin() 호출 시 스택 원소 중 가장 작은 값을 반환한다. -> constant time에 구현.  
 2) stack<pair<int,int>> : pair< 요소 값, 이 요소를 포함한 아래의 모든 원소 중 가장 작은 값 > 
 3) 혹은 double stack 으로 구현해서 pair를 각
+
+#### 3. reverse bits
+[문제](https://leetcode.com/problems/reverse-bits/)  
+
+1) 비트연산자를 활용한 divide 방식  
+n = n>>16 | n <<16  
+   n = (n & 0xff00)<<8 | (n & 0x00ff)>>8   
+   ...
+   
