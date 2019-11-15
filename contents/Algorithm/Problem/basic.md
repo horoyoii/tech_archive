@@ -25,3 +25,12 @@ n = n>>16 | n <<16
    n = (n & 0xff00)<<8 | (n & 0x00ff)>>8   
    ...
    
+   
+#### 4. count one bit (Hamming Weight)  
+[문제](https://leetcode.com/problems/number-of-1-bits/)  
+
+1) >> 연산자 활용  
+2) n 과 n-1에 대하여 and 연산 적용 시 내림수 아래는 모두 0이 된다.  
+
+
+   
