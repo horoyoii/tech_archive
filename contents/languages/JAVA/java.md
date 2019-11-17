@@ -20,7 +20,6 @@
 
 
 6. Object-oriented Programming in JAVA  2  
-
 [6.1. 상속](/contents/languages/JAVA/inheritance.md)  
 
 
