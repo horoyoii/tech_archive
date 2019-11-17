@@ -33,4 +33,19 @@ n = n>>16 | n <<16
 2) n 과 n-1에 대하여 and 연산 적용 시 내림수 아래는 모두 0이 된다.  
 
 
+
+#### 4. reverse Linked-List 
+[문제](https://leetcode.com/problems/reverse-linked-list/)  
+
+1) Iterative version  : prev node를 통해서 간결하게 만들기  
+2) Recursive version  
+
+#### 5. count primes  
+[문제](https://leetcode.com/problems/count-primes/)  
+
+1) 소수 세기 : 에라스토테네스의 체  
+
+
+
+
    
