@@ -45,6 +45,11 @@ n = n>>16 | n <<16
 
 1) 소수 세기 : 에라스토테네스의 체  
 
+#### 6. Stack using Queues  
+[문제](https://leetcode.com/problems/implement-stack-using-queues/)  
+
+1) by two queue 
+2) by one queue 
 
 
 
