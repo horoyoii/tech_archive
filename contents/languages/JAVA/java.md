@@ -1,7 +1,13 @@
 # JAVA
 
 * C++과의 차이점 위주로 정리
-
+* Strength  (java의 특징인 JVM 과 GC를 기반으로 한 언어의 강점 )  
+  1) **Portablity**   
+  Every java byte code converted from source codes are running on the JVM which can run on the every platform. This means that you don't need to modify source codes to fit into a specific plaform. So JAVA can be called as a platform indepdant language.
+  
+  2) **Reliability**  
+  Java's runtime is supported by GC which automatically manages a memory. If you use languages not supported by GC like C/C++, you should manage a allocation and deallocation of memory very carefully, which is very hard job. Even the scale of a system is much bigger, it can be more difficult. So JAVA based on GC can also have a strength in terms of a **Scalability**.   
+  
 
 [1. Intro ](/contents/languages/JAVA/Intro.md)  
 [2. Variable and Control Statements ](/contents/languages/JAVA/Variable_and_ControlStatement.md)  
