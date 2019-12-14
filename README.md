@@ -3,7 +3,7 @@
  **[0. Algorithm basic problems](/contents/Algorithm/Problem/basic.md)**
 
  [1. Sorting](/contents/Algorithm/Sorting.md)  
- [2. Hashing](/contents/Algorithm/Hash.md) 
+ [2. Hashing](/contents/Algorithm/Hash.md)   
  [3. Graph](/contents/Algorithm/Graph.md) 
 
 
