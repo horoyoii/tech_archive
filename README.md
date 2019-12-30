@@ -15,7 +15,7 @@
 
 # 3. Languages
 
-[1. JAVA ](/contents/languages/JAVA/java.md)
+[1. JAVA ](/contents/languages/JAVA/java.md)  
 [2. C++ ](/contents/languages/Cpp/Cpp.md)
 # 4. Operating System  
 
