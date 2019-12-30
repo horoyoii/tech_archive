@@ -28,5 +28,5 @@
 
 # 6. Design Pattern
 
-[1. Iterator Pattern](/contents/design_pattern/intro.md)
+[1. Iterator Pattern](/contents/design_pattern/intro.md)  
 [2. Reactor Pattern](/contents/DP/reactor.md)  
