@@ -30,7 +30,7 @@
 [6.2. super / super()](/contents/languages/JAVA/super.md)  
 [6.3.다형성](/contents/languages/JAVA/Polymorphism.md)  
 [6.4. 추상클래스](/contents/languages/JAVA/abstract_class.md)  
-[6.5. 인터페이스]((/contents/languages/JAVA/interface.md))  
+[6.5. 인터페이스]((/contents/languages/JAVA/interface.md) 
 
 
 
