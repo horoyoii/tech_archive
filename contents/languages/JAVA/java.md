@@ -28,7 +28,7 @@
 6. Object-oriented Programming in JAVA  2  
 [6.1. 상속](/contents/languages/JAVA/inheritance.md)  
 [6.2. super / super()](/contents/languages/JAVA/super.md)  
-
+[6.3. ](/contents/languages/JAVA/polymorphism.md)
 
 
 
