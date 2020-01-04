@@ -1,3 +1,6 @@
+# 0. Data Structure  
+
+[1. Basics](/contents/DataStructure/basic.md)  
 
 # 1. Algorithm
  **[0. Algorithm basic problems](/contents/Algorithm/Problem/basic.md)**
