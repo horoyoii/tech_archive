@@ -15,3 +15,17 @@
   * **stack**, **queue**, **priority_queue**  
   
 [container adapters](/contents/languages/STL/container_adapter.md)  
+
+
+## unodered_map  
+[unordered_map](/contents/languages/STL/unordered_map.md)  
+
+## map  
+  * 균형이진트리(RB 트리) 기반 구현  
+  **정렬상태** 유지  
+  **O(LogN)** 복잡도  
+  ```
+  map<int, string> hs; // 기본적으로 less<T> - 오름차순
+  map<int, string, greater<int>>; // 키 대상 내림차순
+  ```
+  
