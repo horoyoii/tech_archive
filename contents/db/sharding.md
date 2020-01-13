@@ -71,7 +71,7 @@
   This can not protect data from **being unevenly distributed**, leading to unbalancing.  
   
   ### Directory Based Sharding  
-    * one must maintain a **lookup table** that uses shard keys to keep track of which shard holds which data.  
-    * Each record has a additional shard key field.  
-    ![스크린샷, 2020-01-13 14-57-35](https://user-images.githubusercontent.com/34915108/72235429-7e560080-3615-11ea-829a-78f0d6707ef1.png)  
+  * one must maintain a **lookup table** that uses shard keys to keep track of which shard holds which data.  
+  * Each record has a additional shard key field.  
+![스크린샷, 2020-01-13 14-57-35](https://user-images.githubusercontent.com/34915108/72235429-7e560080-3615-11ea-829a-78f0d6707ef1.png)  
   
