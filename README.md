@@ -42,7 +42,10 @@
 [1. 정적 바인딩 & 동적 바인딩]()  
 [2. L-value & R-value ](/contents/PL/lvalue_rvalue.md)
 
-# 6. Design Pattern
+# 6. Database  
+[Sharding](/contents/db/sharding.md)  
+
+# 7. Design Pattern
 
 [1. Iterator Pattern](/contents/design_pattern/intro.md)  
 [2. Reactor Pattern](/contents/DP/reactor.md)  
