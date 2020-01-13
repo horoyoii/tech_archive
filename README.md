@@ -18,6 +18,7 @@
  [3.1 Graph](/contents/Algorithm/Graph.md)  
  [3.2. DFS & BFS](/contents/Algorithm/dfs_bfs.md)  
  [3.3. Topological](/contents/Algorithm/topological.md)  
+ [3.4. MST(Kruskal, Prim)]((/contents/Algorithm/MST.md))  
 
 
  
