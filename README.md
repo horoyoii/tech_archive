@@ -6,6 +6,7 @@
 [4. Heap](/contents/DataStructure/Heap.md)  
 [5. graph](/contents/DataStructure/graph.md)  
 [6. Trie](/contents/DataStructure/Trie.md)  
+[7. hash](/contents/DataStructure/hash.md)  
 
 
 # 1. Algorithm
@@ -19,7 +20,7 @@
  [3.2. DFS & BFS](/contents/Algorithm/dfs_bfs.md)  
  [3.3. Topological](/contents/Algorithm/Topology.md)  
  [3.4. MST(Kruskal, Prim)]((/contents/Algorithm/MST.md))  
-
+ [3.4. SCC(DFS-stack-inverse graph)]((/contents/Algorithm/SCC.md))  
 
  
 # 2. Network 
@@ -42,9 +43,16 @@
 
 [1. 정적 바인딩 & 동적 바인딩]()  
 [2. L-value & R-value ](/contents/PL/lvalue_rvalue.md)
+[3. GCC 옵션 과 Compile 과정](/contents/PL/complie_gcc.md)  
 
 # 6. Database  
+[1. key types](/contents/db/key_types.md)  
+[2. Transaction & Isolation level](/contents/db/isolation_level.md)  
+[3. Normalization](/contents/db/normalization.md)  
+[Redis](/contents/db/redis.md)  
 [Sharding](/contents/db/sharding.md)  
+
+
 
 # 7. Design Pattern
 
