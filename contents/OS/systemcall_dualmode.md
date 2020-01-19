@@ -26,6 +26,12 @@
 #### 2. Kernel mode  
   * In **mode bit** set to 0, if **system is in kernel mode**, it can run any privileged instruction.  
   
+## System call 종류  
+
+1. Process control : fork(), exit(), wait()  
+2. File control : open(), read(), write(), close()  
+3. Information maintenance : getpid(), alarm(), sleep()  
+4. Communication : pip(), shmget(), mmap()  
 
 ## HOW IT WORKS  
 
