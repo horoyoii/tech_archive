@@ -25,6 +25,9 @@
 
 # 3. WAS (Web Application Server)    
 
+  * web application program은 WAS 위에서 동작할 수 있다.  
+  -> spring으로 짜여진 자바 웹 어플리케이션 프로그램은 tomcat 위에서 실행된다.  
+  
 #### 2. Web Application Server의 예  
 1) Tomcat  
 
