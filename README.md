@@ -53,8 +53,10 @@
 [5.1. INDEX](/contents/db/intro_index.md)  
 [5.2. INDEX](/contents/db/indexing.md)  
 
+[MySQL](/contents/db/mysql.md)  
 
 [Redis](/contents/db/redis.md)  
+
 [Sharding](/contents/db/sharding.md)  
 
 
