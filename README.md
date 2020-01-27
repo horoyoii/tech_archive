@@ -49,6 +49,11 @@
 [1. key types](/contents/db/key_types.md)  
 [2. Transaction & Isolation level](/contents/db/isolation_level.md)  
 [3. Normalization](/contents/db/normalization.md)  
+[4. Referential Integrity](/contents/db/referential_integrity.md)  
+[5.1. INDEX](/contents/db/intro_index.md)  
+[5.2. INDEX](/contents/db/indexing.md)  
+
+
 [Redis](/contents/db/redis.md)  
 [Sharding](/contents/db/sharding.md)  
 
