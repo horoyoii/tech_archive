@@ -15,11 +15,12 @@
  
 ## How to use  
 
+  [설치 링크](https://jybaek.tistory.com/764)  
   * based on Docker  
   1. Download the image from docker hub and run    
   ```
-  docker pull jenkins
-  docker run -p 8080:8080 -p 50000:50000 jenkins
+  docker pull jenkins/jenkins
+  docker run -p 8080:8080 jenkins/jenkins:lts
   ```
   
   2. now, access jenkins ui via browser  
