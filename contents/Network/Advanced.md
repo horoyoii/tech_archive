@@ -33,7 +33,17 @@
   
    6. 계층형 구조
    
-   
-### 3. 결론
 
-  * 자원의 표현에 의한 상태 전달
+
+### 3. 요약  
+
+[사이트 1](https://hackernoon.com/restful-api-design-step-by-step-guide-2f2c9f9fcdbf)  
+ 
+ 
+ 
+[조대협님 사이트](https://bcho.tistory.com/954)  
+
+
+
+
+
