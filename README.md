@@ -52,7 +52,8 @@
 [4. Referential Integrity](/contents/db/referential_integrity.md)  
 [5.1. INDEX](/contents/db/intro_index.md)  
 [5.2. INDEX](/contents/db/indexing.md)  
-
+[6 Join](/contents/db/join.md)
+  
 [MySQL](/contents/db/mysql.md)  
 
 [Redis](/contents/db/redis.md)  
